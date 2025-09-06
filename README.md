@@ -13,23 +13,7 @@ Use Sleuth Kit tools like mmls, fsstat, and fls to examine the partition layout,
 Interpret the output of the tools to understand the disk structure, including partitions, sectors, and files.
 
 ## PROGRAM:
-Sleuth Kit Disk Analysis Commands
-## PRELIMINARY STEP:
-### Step1:
-
-  ●	Run command prompt as administrator
-![image](https://github.com/user-attachments/assets/88d50e21-5d20-4d07-a8c4-3635496388a1)
-
-### Step2:
-
-  ●	Verify Sleuthkit is installed.
-  ![image](https://github.com/user-attachments/assets/504edd66-9700-490f-b6c5-878d5ccba681)
-
-### Step3:
-
-  ●	Navigate to the binary file of Sleuthkit in command prompt: 
-  ![image](https://github.com/user-attachments/assets/5e792732-51f0-4b7f-b299-cc21699104e8)
-
+Sleuth Kit Disk Analysis Commands.
 ## PROCEDURE:
 ## ANALYSE THE FILE USING SLEUTHKIT TOOL:
 
