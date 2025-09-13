@@ -83,7 +83,7 @@ Sleuth Kit Disk Analysis Commands.
   
   ●	Command:  icat.exe -f filetype “file path” <inode number>
   
-  <img width="1920" height="1080" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/465e2fb9-ea0a-470a-89b3-6efd8addfee4" />
+<img width="880" height="623" alt="image" src="https://github.com/user-attachments/assets/2ca8010e-ca66-43b4-956f-4b70f5e9292c" />
 
 
   #### OUTPUT SUMMARY:
