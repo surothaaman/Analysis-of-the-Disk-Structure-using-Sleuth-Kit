@@ -11,6 +11,7 @@ Use Sleuth Kit tools like mmls, fsstat, and fls to examine the partition layout,
 
 ### Step 3:
 Interpret the output of the tools to understand the disk structure, including partitions, sectors, and files.
+<img width="897" height="623" alt="image" src="https://github.com/user-attachments/assets/1f46c1bb-1a90-4360-9f3b-b32151d87709" />
 
 ## PROGRAM:
 Sleuth Kit Disk Analysis Commands.
@@ -21,7 +22,7 @@ Sleuth Kit Disk Analysis Commands.
   ●	Use istat to view metadata of a file/directory using its inode number 0:
   
   ●	Command:  istat.exe -f filetype “file path” <inode number>
-  <img width="1920" height="1080" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/ab487752-7bf3-41c8-8473-decb5f04e9a1" />
+  
 
   
   #### OUTPUT SUMMARY:
@@ -39,8 +40,8 @@ Sleuth Kit Disk Analysis Commands.
   ●	Use istat to view metadata of a file/directory using its inode number 1:
   
   ●	Command:  istat.exe -f filetype “file path” <inode number>
-  
-  <img width="1920" height="1080" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/5060f8d8-b912-4922-b7c0-040333e6f7ae" />
+  <img width="1115" height="617" alt="image" src="https://github.com/user-attachments/assets/9dbc24a9-cf2f-444a-8ee6-e8a094516e53" />
+
 
 
   #### OUTPUT SUMMARY:
@@ -59,7 +60,7 @@ Sleuth Kit Disk Analysis Commands.
   
   ●	Command:  istat.exe -f filetype “file path” <inode number>
   
-  <img width="1920" height="1080" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/86f8d5d0-c47f-4c27-8f0c-81d4c00cec8a" />
+  
 
 
   #### OUTPUT SUMMARY:
@@ -104,9 +105,11 @@ Sleuth Kit Disk Analysis Commands.
   ●	Use fsstat to view file system metadata of the ISO image.
   
   ●	Command:  fsstat -f filetype “file path”
-  <img width="1920" height="1080" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/48bebd99-3cc1-4209-9f79-74dae1dd269a" />
+  <img width="827" height="615" alt="image" src="https://github.com/user-attachments/assets/a89f9af2-f664-461e-9083-16beb786c2dc" />
 
-  <img width="1920" height="1080" alt="Screenshot (300)" src="https://github.com/user-attachments/assets/af7cc3cf-f938-4b43-88a7-bb299f5945ad" />
+
+  <img width="588" height="630" alt="image" src="https://github.com/user-attachments/assets/8fe28ad9-a33e-4ce2-bdf2-8097c196e974" />
+
 
   
   #### OUTPUT SUMMARY:
@@ -145,7 +148,8 @@ Sleuth Kit Disk Analysis Commands.
   ●	Use fls to view directory structure.
   
   ●	Command:  fls -f filetype -r  “file path”
-  <img width="1920" height="1080" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/ea772cdc-6863-4a6a-9e58-be83b4472ff6" />
+  <img width="766" height="618" alt="image" src="https://github.com/user-attachments/assets/1c52782f-fece-4a75-9600-34809c0b1ab3" />
+
 
 
 
@@ -172,7 +176,7 @@ Sleuth Kit Disk Analysis Commands.
   ●	Use img_stat – Sleuth Kit utility for viewing image file metadata.
   
   ●	Command:  img_stat  “file path”
-  <img width="1920" height="1080" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/7099fd19-9745-4a2a-8433-6d6cebd40846" />
+  
 
 
   #### OUTPUT SUMMARY:
